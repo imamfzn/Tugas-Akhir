@@ -1,0 +1,17 @@
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/WeatherObservation.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/connector/MysqlConnector.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/parallel/DataProducer.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/helper/Statistic.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/parallel/BestModelFinderWorker.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/controller/TrainingRunner.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/ModelConfiguration.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/helper/DatabaseHelper.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/com/imamfzn/app/App.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/Argument.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/Location.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/TrainingSet2.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/parallel/ModelBuilderPool.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/parallel/ModelBuilderWorker.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/parallel/ModelIdentifierWorker.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/TrainingSet.java
+/home/imamfzn/Documents/Tugas Akhir/Seminar 3/Eksperimen/program/training-app/src/main/java/model/ObservationValue.java

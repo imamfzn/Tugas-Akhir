@@ -1,0 +1,1 @@
+java -cp training.jar controller.Training --size=$1 > logs/eksperimen_$1_single_$2.log 2>&1
